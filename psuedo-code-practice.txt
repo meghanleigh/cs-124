@@ -1,0 +1,19 @@
+Psuedo Code Examples:
+
+Temperature Conversion:
+    fahrenheit <-- prompt user for temp in fahrenheit
+    celsius <----- (5/9)*(fahrenheit - 32)
+    print temperature in celsius
+
+
+Child Tax Credit
+    income <---- prompt user for income
+    children <-- prompt user for number of kids
+    evaluate if user qualifies for tax credit
+    if they qualify give a $1000 credit per child, but $0 if not.
+    print the amount of credit the user qualifies for if any
+
+Cookie Monster
+    cookies = prompt user for number of cookies
+    while number of cookies is less than 4 prompt the user for a number of cookies
+    after a number >= 4 is entered print out thank you message.
